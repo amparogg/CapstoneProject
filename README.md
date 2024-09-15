@@ -1,5 +1,10 @@
-# CapstoneProject_WQU
-Code repository of WQU Capstone Project
+# WorldQuant University
+## MscFE CapstoneProject
+
+Code repository of WQU Capstone Project from group 7119:
+* Abhijeet Aanand – abhijeetaanand0@gmail.com
+* Amparo Garcia Garcia - garciamparo14@gmail.com
+
 
 ## Project Track
 The current project is included within Stock Indices and Their Components track, specifically within the Equity Index Replication. This track is a combination of research and practical track. The research component of the track involves understanding the key drivers of broader market indices and researching methodologies to do a sparse replication of indices of interest. The practical component of the track involves implementing some of these methodologies on indices of interest and comparing their strengths and potential weaknesses.
