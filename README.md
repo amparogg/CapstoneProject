@@ -1,4 +1,3 @@
-# WorldQuant University
 ## MscFE CapstoneProject
 
 Code repository of WQU Capstone Project from group 7119:
